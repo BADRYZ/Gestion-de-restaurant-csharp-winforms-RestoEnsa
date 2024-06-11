@@ -1,0 +1,7 @@
+ALTER TABLE shift_serveur
+  ADD CONSTRAINT shift_serveur_ibfk_1 FOREIGN KEY (id_shift) REFERENCES shift (id),
+  ADD CONSTRAINT shift_serveur_ibfk_2 FOREIGN KEY (id_serveur) REFERENCES serveur (id);
+ALTER TABLE shift
+DROP COLUMN day;
+ALTER TABLE shift_serveur
+ADD COLUMN date DATE;

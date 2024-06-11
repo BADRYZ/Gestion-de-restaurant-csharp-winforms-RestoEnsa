@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|c:\\users\\zakaria\\onedrive\\desktop\\restoensafinal\\restoensa\\restoensa\\calendrier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|solutionrelative:restoensa\\calendrier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|c:\\users\\zakaria\\onedrive\\desktop\\restoensafinal\\restoensa\\restoensa\\calendrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|solutionrelative:restoensa\\calendrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|c:\\users\\zakaria\\onedrive\\desktop\\restoensafinal\\restoensa\\restoensa\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B394550B-9EE8-4B22-9C0E-F5DBE30A3AED}|RestoEnsa\\RestoEnsa.csproj|solutionrelative:restoensa\\ucdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucdays.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\ucdays.cs",
+              "RelativeDocumentMoniker": "RestoEnsa\\ucdays.cs",
+              "ToolTip": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\ucdays.cs [Conception]",
+              "RelativeToolTip": "RestoEnsa\\ucdays.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:09:15.643Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calendrier.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\Calendrier.cs",
+              "RelativeDocumentMoniker": "RestoEnsa\\Calendrier.cs",
+              "ToolTip": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\Calendrier.cs [Conception]",
+              "RelativeToolTip": "RestoEnsa\\Calendrier.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:08:33.086Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendrier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\Calendrier.Designer.cs",
+              "RelativeDocumentMoniker": "RestoEnsa\\Calendrier.Designer.cs",
+              "ToolTip": "C:\\Users\\Zakaria\\OneDrive\\Desktop\\RestoEnsaFinal\\RestoEnsa\\RestoEnsa\\Calendrier.Designer.cs",
+              "RelativeToolTip": "RestoEnsa\\Calendrier.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:52:30.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

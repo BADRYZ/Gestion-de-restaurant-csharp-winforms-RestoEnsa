@@ -1,0 +1,195 @@
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.exe
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.deps.json
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.runtimeconfig.json
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.pdb
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form1.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.GenerateResource.cache
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfoInputs.cache
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfo.cs
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.CoreCompileInputs.cache
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\refint\RestoEnsa.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.pdb
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.genruntimeconfig.cache
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\ref\RestoEnsa.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Properties.Resources.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.AssemblyReference.cache
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.Up2Date
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form2.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Supprimercat.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ChefsForm.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.FormCommandes.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.UserControl2.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ajouter.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.calendrier.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ucdays.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Menu.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Serveur.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.JSInterop.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Core.Component.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Extensions.DependencyInjection.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Core.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Form.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Theme.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Typography.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Script.DomHelpers.dll
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.login.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Welcome.resources
+C:\Users\Manar\source\repos\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Bunifu_UI_v1.5.3 (1).dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.AssemblyReference.cache
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ajouter.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.calendrier.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ChefsForm.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form1.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form2.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.FormCommandes.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.login.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Menu.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Properties.Resources.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Serveur.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ucdays.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Supprimercat.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.UserControl2.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Welcome.resources
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.GenerateResource.cache
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfoInputs.cache
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfo.cs
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.CoreCompileInputs.cache
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\refint\RestoEnsa.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.pdb
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.exe
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authorization.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Authorization.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Web.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Metadata.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.JSInterop.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Core.Component.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Extensions.DependencyInjection.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Core.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Form.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Theme.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Typography.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Script.DomHelpers.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.CopyComplete
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.deps.json
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.runtimeconfig.json
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.pdb
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.genruntimeconfig.cache
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\ref\RestoEnsa.dll
+D:\telechargemennt\RestoEnsa (6)\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Bunifu_UI_v1.5.3.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.exe
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.deps.json
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.runtimeconfig.json
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\RestoEnsa.pdb
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Microsoft.JSInterop.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Core.Component.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Extensions.DependencyInjection.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Core.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Form.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Theme.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Material.Typography.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Skclusive.Script.DomHelpers.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\bin\Debug\net8.0-windows\Bunifu_UI_v1.5.3.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.AssemblyReference.cache
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ajouter.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.calendrier.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ChefsForm.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form1.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Form2.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.FormCommandes.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.login.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Menu.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Properties.Resources.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Serveur.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.ucdays.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Supprimercat.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.UserControl2.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.Welcome.resources
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.GenerateResource.cache
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfoInputs.cache
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.AssemblyInfo.cs
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.CoreCompileInputs.cache
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.csproj.Up2Date
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\refint\RestoEnsa.dll
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.pdb
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\RestoEnsa.genruntimeconfig.cache
+C:\Users\Zakaria\OneDrive\Desktop\RestoEnsaFinal\RestoEnsa\RestoEnsa\obj\Debug\net8.0-windows\ref\RestoEnsa.dll
